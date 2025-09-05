@@ -2,3 +2,4 @@
 *.pyc
 __pycache__/
 .keras
+node_modules/

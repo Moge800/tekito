@@ -1,0 +1,1 @@
+.\node_modules\.bin\tsc typescript/Hello.ts
